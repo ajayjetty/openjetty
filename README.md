@@ -21,13 +21,10 @@ This table says what is true today. The source of the apps I build is not availa
 
 | Name | Shelf | Status | Code and license |
 |---|---|---|---|
-| Jobs Jetty | Product | Live at [jobs.openjetty.ai](https://jobs.openjetty.ai). | Source opening soon. MIT. |
 | The CRM you talk to | Product | Coming soon. Proven with realtors. | MIT, when it opens. |
 | Row-Bot | Product, partner project | Live at [row-bot.ai](https://row-bot.ai). | Open today in [its own repo](https://github.com/siddsachar/row-bot). Apache 2.0. |
 | Form filling | Tool | On the way. | MIT, when it opens. |
 | File reading | Tool | On the way. | MIT, when it opens. |
-
-**Jobs Jetty.** Write to the people who hire.
 
 **The CRM you talk to.** Messy files go in. Every value lands in a typed record. You ask in plain words and the answers come from stored facts.
 
